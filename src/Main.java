@@ -15,6 +15,4 @@ public class Main {
         System.out.println((spices / eaters) + " ложек(ка) специй");
 
     }
-}1
-1
-2
+}
